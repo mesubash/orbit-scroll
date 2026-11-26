@@ -1,5 +1,7 @@
 <div align="center">
 
+<a href="https://orbitscroll.vercel.app"><img src="docs/demo.gif" alt="orbit-scroll demo: cards rotate around a dial as the page scrolls" width="640" /></a>
+
 # orbit-scroll
 
 A scroll-driven orbit carousel for React.<br />
@@ -9,11 +11,8 @@ Cards travel around a ticked dial as you scroll, and a spring swings the active 
 [![shadcn registry](https://img.shields.io/badge/shadcn-registry-2F54EB?style=flat-square)](#install)
 [![Framer Motion](https://img.shields.io/badge/framer--motion-11%2B-A24BC0?style=flat-square&logo=framer&logoColor=white)](https://motion.dev)
 [![License: MIT](https://img.shields.io/github/license/mesubash/orbit-scroll?style=flat-square&color=0F9D8A)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/mesubash/orbit-scroll?style=flat-square&color=D99A00)](https://github.com/mesubash/orbit-scroll/stargazers)
 
 [Live demo](https://orbitscroll.vercel.app) · [Install](#install) · [Usage](#usage) · [Props](#props)
-
-<a href="https://orbitscroll.vercel.app"><img src="docs/demo.gif" alt="orbit-scroll demo: cards rotate around a dial as the page scrolls" width="100%" /></a>
 
 </div>
 
