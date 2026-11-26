@@ -3,6 +3,8 @@
 A scroll-driven orbit carousel for React. Cards travel around a ticked dial as you
 scroll; the active one swings into place with a spring.
 
+**[Live demo](https://orbitscroll.vercel.app)**
+
 ![orbit-scroll demo](docs/demo.gif)
 
 - One file: [`src/components/OrbitScroll.tsx`](src/components/OrbitScroll.tsx)
@@ -14,7 +16,7 @@ scroll; the active one swings into place with a spring.
 With the [shadcn CLI](https://ui.shadcn.com/docs/cli):
 
 ```sh
-npx shadcn@latest add https://raw.githubusercontent.com/mesubash/orbit-scroll/main/public/r/orbit-scroll.json
+npx shadcn@latest add https://orbitscroll.vercel.app/r/orbit-scroll.json
 ```
 
 Or copy `src/components/OrbitScroll.tsx` into your project and run `npm install framer-motion`.

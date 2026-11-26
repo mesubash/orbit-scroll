@@ -20,8 +20,7 @@ export const Route = createFileRoute("/")({
 });
 
 const REPO = "https://github.com/mesubash/orbit-scroll";
-const REGISTRY =
-  "https://raw.githubusercontent.com/mesubash/orbit-scroll/main/public/r/orbit-scroll.json";
+const REGISTRY = "https://orbitscroll.vercel.app/r/orbit-scroll.json";
 const INK = "#1B2140";
 const PAPER = "#ECEEF1";
 
