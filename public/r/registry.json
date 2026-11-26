@@ -1,0 +1,20 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "orbit-scroll",
+  "homepage": "https://github.com/mesubash/orbit-scroll",
+  "items": [
+    {
+      "name": "orbit-scroll",
+      "type": "registry:component",
+      "title": "Orbit Scroll",
+      "description": "Scroll-driven carousel: cards travel around a ticked dial as you scroll.",
+      "dependencies": ["framer-motion"],
+      "files": [
+        {
+          "path": "src/components/OrbitScroll.tsx",
+          "type": "registry:component"
+        }
+      ]
+    }
+  ]
+}

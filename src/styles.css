@@ -1,0 +1,9 @@
+@import "tailwindcss" source(none);
+@source "../src";
+
+body {
+  margin: 0;
+  background: #eceef1;
+  color: #1b2140;
+  font-family: "Bricolage Grotesque", system-ui, sans-serif;
+}
