@@ -9,6 +9,7 @@ import type { ReactNode } from "react";
 
 import appCss from "../styles.css?url";
 
+const SITE = "https://orbitscroll.vercel.app";
 const DESCRIPTION = "A scroll-driven orbit carousel component for React.";
 
 export const Route = createRootRoute({
@@ -21,6 +22,12 @@ export const Route = createRootRoute({
       { property: "og:title", content: "orbit-scroll" },
       { property: "og:description", content: DESCRIPTION },
       { property: "og:type", content: "website" },
+      { property: "og:url", content: SITE },
+      { property: "og:image", content: `${SITE}/og.png` },
+      { property: "og:image:width", content: "1280" },
+      { property: "og:image:height", content: "640" },
+      { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:image", content: `${SITE}/og.png` },
     ],
     links: [
       { rel: "stylesheet", href: appCss },

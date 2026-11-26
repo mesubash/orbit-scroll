@@ -1,5 +1,14 @@
 {
   "name": "orbit-scroll",
+  "version": "1.0.0",
+  "description": "A scroll-driven orbit carousel component for React.",
+  "author": "Subash Singh Dhami (https://github.com/mesubash)",
+  "license": "MIT",
+  "homepage": "https://orbitscroll.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesubash/orbit-scroll.git"
+  },
   "private": true,
   "sideEffects": false,
   "type": "module",
